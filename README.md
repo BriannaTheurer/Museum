@@ -1,2 +1,0 @@
-# Museum
-Museum information guide
